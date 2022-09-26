@@ -1,0 +1,21 @@
+.banner-principal {
+
+    background:rgba(0, 0, 0, 0.4) url("../img/ba1.jpg");
+    background-blend-mode: darken;
+    height: 90vh;
+    background-size: cover;
+    background-position: 0% 75%;
+}
+
+.tarjeta {
+
+    position: cover;
+    margin-top: 24px;
+    background-color:rgb(0%, 0%, 255%)
+
+}
+
+.parrafo {
+    
+    text-align:1px dotted #000000;
+}
