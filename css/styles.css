@@ -7,15 +7,31 @@
     background-position: 0% 75%;
 }
 
-.tarjeta {
+/* .tarjeta {
 
     position: cover;
     margin-top: 24px;
     background-color:rgb(0%, 0%, 255%)
+}
+*/
+    
+footer {
+    padding: 20px;
+    background-color: rgb(27, 79, 114);
+}
+
+footer ul li a {
+    color: rgb(255, 255, 255)!important;
+    text-decoration: none !important;
+
 
 }
 
-.parrafo {
-    
-    text-align:1px dotted #000000;
+.boton-final {
+    background-color: rgb(133, 223, 84) !important;
+    border-color: rgb(133, 223, 84) !important;
+}
+
+.card-text {
+    font-size: 11px;
 }
