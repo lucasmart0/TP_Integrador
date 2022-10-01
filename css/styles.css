@@ -7,16 +7,8 @@
     background-position: 0% 75%;
 }
 
-/* .tarjeta {
-
-    position: cover;
-    margin-top: 24px;
-    background-color:rgb(0%, 0%, 255%)
-}
-*/
-    
 footer {
-    padding: 20px;
+    padding: 1%;
     background-color: rgb(27, 79, 114);
 }
 
@@ -33,5 +25,5 @@ footer ul li a {
 }
 
 .card-text {
-    font-size: 11px;
+    font-size: 70%;
 }
